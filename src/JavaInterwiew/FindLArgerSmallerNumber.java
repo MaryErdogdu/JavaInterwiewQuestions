@@ -1,4 +1,4 @@
-package ArrayInterwiew;
+package JavaInterwiew;
 
 import java.util.Arrays;
 
@@ -6,7 +6,7 @@ public class FindLArgerSmallerNumber {
 
 	public static void main(String[] args) {
 		
-		int []arr = {7,2,3,4,56,57,5,8};
+		int []arr = {7,2,3,4,56,57,5,8,9};
 		
 //		Arrays.sort(arr);
 //		System.out.println(Arrays.toString(arr));

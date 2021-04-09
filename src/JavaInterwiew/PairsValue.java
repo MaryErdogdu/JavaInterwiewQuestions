@@ -1,4 +1,4 @@
-package ArrayInterwiew;
+package JavaInterwiew;
 
 public class PairsValue {
 	

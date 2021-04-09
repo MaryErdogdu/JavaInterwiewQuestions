@@ -1,4 +1,4 @@
-package ArrayInterwiew;
+package JavaInterwiew;
 import java.util.Arrays;
 
 public class AddTwoMatrix {
