@@ -8,6 +8,8 @@ public class Deneme {
 		System.out.println("Deneme 3");
 		System.out.println("Deneme 4");
 		System.out.println("Deneme 5");
+		System.out.println("Deneme 6");
+		
 		
 
 	}
