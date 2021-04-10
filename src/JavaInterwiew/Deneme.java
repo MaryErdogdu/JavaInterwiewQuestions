@@ -15,8 +15,8 @@ public class Deneme {
 		System.out.println("Deneme 7");  // ==>conflict olusturuyorum ayni satira eclipse baska bir sey ekledim.
 		System.out.println("Deneme 8");
 		
-		
-
+		System.out.println("Deneme 8 bilgisayarim");		
+        System.out.println("Deneme 9 merve branch");
 		
 
 	}
