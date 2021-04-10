@@ -20,7 +20,7 @@ public class AddTwoMatrix {
 			}
 			System.out.println();
 		}
-		System.out.println(Arrays.deepToString(c)); 
+		System.out.println(Arrays.deepToString(c)); //Multi
 		
 		
 	
@@ -29,23 +29,4 @@ public class AddTwoMatrix {
 
 }
 		
-		
-		
-		
-		
-		
-		
-		
-		
-//		
-//		int c[][]=new int[3][3];
-//		for (int i = 0; i < c.length; i++) {
-//			for (int j = 0; j < c.length; j++) {
-//					c[i][j]=a[i][j] + b[i][j];
-//				System.out.print(c[i][j] + " ");
-//			}
-//			System.out.println();
-//		}
-//	}
-//
-//}
+
